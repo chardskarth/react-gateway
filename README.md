@@ -1,4 +1,4 @@
-![npm](https://img.shields.io/npm/v/@chardskarth/react-gateway)
+[![npm version](https://img.shields.io/npm/v/@chardskarth/react-gateway)](https://www.npmjs.com/package/@chardskarth/react-gateway)
 # React Gateway
 
 Render React DOM into a new context (aka "Portal")
